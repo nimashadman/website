@@ -1,2 +1,2 @@
 # website
-my personal website template
+قالب ساده وب سایت خودم که از دوست عزیزم این طرح و هدیه گرفتم
